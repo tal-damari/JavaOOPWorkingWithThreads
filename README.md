@@ -1,7 +1,7 @@
 # JavaOOPWorkingWithThreads
 Android1 - Java OOP working with threads
 
-This is a given class assignment from course called Android 1.
+This is a given class assignment from course called "Android 1".
 
 In this assignment we were given to create threads in ou program, which we have 3 workers who implement an array that have 15 places with the number of customers.
 
